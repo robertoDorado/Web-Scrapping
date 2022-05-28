@@ -1,0 +1,16 @@
+{
+    "name": "americanas/web-scrapping",
+    "description": "web scrapping no site da americanas",
+    "authors": [
+        {
+            "name": "Roberto Dorado",
+            "email": "robertodorado7@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4":{
+            "App\\": "App/"
+        }
+    }
+}
